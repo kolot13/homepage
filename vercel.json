@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/wa",
+      "destination": "https://gdn77.getingready.life/register",
+      "permanent": false
+    }
+  ]
+}
